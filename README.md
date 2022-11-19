@@ -18,3 +18,4 @@ Get OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcri
 - [x] Self-hosted. No 3rd parties.
 - [x] Easy self-host with Docker-compose
 - [x] Select input audio language
+- [x] Screenshots available here: https://codeberg.org/pluja/web-whisper#screenshots
