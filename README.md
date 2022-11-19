@@ -1,6 +1,6 @@
-# [web-whisper](https://codeberg.org/pluja/web-whisper)
+# 👐 This project is hosted on **Codeberg**: [See the repo!](https://codeberg.org/pluja/web-whisper)
 
-> This project is hosted in [Codeberg](https://codeberg.org): [See the repo!](https://codeberg.org/pluja/web-whisper)
+## [web-whisper](https://codeberg.org/pluja/web-whisper)
 
 Get OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcription right into your web browser!
 
