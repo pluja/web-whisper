@@ -1,8 +1,8 @@
 # 👐 This project is hosted on **Codeberg**: [See the repo!](https://codeberg.org/pluja/web-whisper)
 
-## [web-whisper](https://codeberg.org/pluja/web-whisper)
+#### [Read the self hosting guide](https://codeberg.org/pluja/web-whisper/wiki/Self-Hosting)
 
-Get OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcription right into your web browser!
+OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcription right into your web browser!
 
 ## ✨ Features:
 
@@ -25,3 +25,24 @@ Get OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcri
 - [x] Uses C++ whisper version from [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
     - You don't need a GPU, uses CPU.
     - No need for complex installations.
+
+
+
+## Screenshots
+
+> Screenshots may be outdated, see the [source code repo for updated info](https://codeberg.org/pluja/web-whisper)
+
+##### Main page
+<img src="https://farside.link/rimgo/GFBHU8V.png" align=center>
+
+##### Recording
+<img src="https://farside.link/rimgo/M5pW2BB.png" align=center>
+
+#### Transcription Options
+<img src="https://farside.link/rimgo/a4yf4hu.png" align=center>
+
+#### Processing
+<img src="https://farside.link/rimgo/SHOTbh8.png" align=center>
+
+#### Result
+<img src="https://farside.link/rimgo/8EodxT9.png" align=center>
