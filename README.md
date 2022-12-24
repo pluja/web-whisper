@@ -12,19 +12,26 @@ OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcriptio
 
 - [x] Record and transcribe audio right from your browser.
 - [x] Upload any media file (video, audio) in any format and transcribe it.
+    - [x] Option to cut audio to X seconds before transcription.
+    - [x] Option to disable file uploads.
+- [x] Select input audio language.
+  - [x] Auto-detect input audio language.
+- [x] Option to speed up audio by 2x for faster results (this has negative impact on accuracy).
+- [x] Translate input audio transcription to english.
 - [x] Download `.srt` subtitle file generated from audio.
-- [x] Lightweight and beautiful UI.
-- [x] Self-hosted. No 3rd parties.
+- [x] Configure whisper
+    - [x] Choose the Whisper model you want to use (tiny, base, small...)
+    - [x] Configure the number of **threads** and **processors** to use.
 - [x] **Docker compose** for easy self-hosting
-- [x] Select input audio language
 - [x] **Privacy respecting**: 
     - All happens locally. No third parties involved.
     - Audio files are deleted immediately after processing.
-- [x] Backend written in **Go**
-- [x] Frontend written with **Svelte** and **Tailwind CSS**.
 - [x] Uses C++ whisper version from [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
     - You don't need a GPU, uses CPU.
     - No need for complex installations.
+- [x] Backend written in **Go**
+- [x] Lightweight and beautiful UI.
+    - [x] Frontend written with **Svelte** and **Tailwind CSS**.
 
 
 
