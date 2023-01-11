@@ -1,11 +1,10 @@
 # 👐 This project is hosted on **Codeberg**: [See the repo!](https://codeberg.org/pluja/web-whisper)
 
-#### [Read the self hosting guide](https://codeberg.org/pluja/web-whisper/wiki/Self-Hosting)
+### [Read the self hosting guide](https://codeberg.org/pluja/web-whisper/wiki/Self-Hosting)
 
 OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcription right into your web browser!
 
 ## ✨ Features:
-
 
 > **Warning**
 > All new features will be updated on the [codeberg source repo](https://codeberg.org/pluja/web-whisper)
@@ -26,6 +25,7 @@ OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcriptio
 - [x] **Privacy respecting**: 
     - All happens locally. No third parties involved.
     - Audio files are deleted immediately after processing.
+    - Option to activate a transcription history
 - [x] Uses C++ whisper version from [whisper.cpp](https://github.com/ggerganov/whisper.cpp).
     - You don't need a GPU, uses CPU.
     - No need for complex installations.
