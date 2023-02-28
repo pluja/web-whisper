@@ -1,5 +1,7 @@
 # 👐 This project is hosted on **Codeberg**: [See the repo!](https://codeberg.org/pluja/web-whisper)
 
+> Screenshots available in Codeberg
+
 ### [Read the self hosting guide](https://codeberg.org/pluja/web-whisper/wiki/Self-Hosting)
 
 OpenAI's [Whisper](https://github.com/openai/whisper) Audio to text transcription right into your web browser!
