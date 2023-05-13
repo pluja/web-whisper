@@ -1,4 +1,4 @@
-# 👐 This project is hosted on **Codeberg**: [See the repo!](https://codeberg.org/pluja/web-whisper)
+# 👐 New version: [web whisper plus](https://codeberg.org/pluja/web-whisper-plus)! Many new features and improvements :)
 
 > Screenshots available in Codeberg
 
