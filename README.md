@@ -1,4 +1,4 @@
-# 🤫 [web whisper plus](https://codeberg.org/pluja/web-whisper-plus)!
+# 🤫 [web whisper plus](https://codeberg.org/pluja/web-whisper-plus)
 
 Web Whiser brings all the features from OpenAI Whisper Speech To Text to your browser. Easily transcribe any audio to text, edit the subtitles, translate to any language and download in many formats with a web interface.
 
